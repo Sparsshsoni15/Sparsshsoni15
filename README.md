@@ -1,9 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Sparsh%20Soni.&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=A%20passionate%20developer%20from%20India%20🇮🇳&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Sparsh%20Soni&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Building%20Ideas%20Into%20Reality&descAlignY=68"/>
 
 </div>
-
 ---
 
 ## 💫 About Me
