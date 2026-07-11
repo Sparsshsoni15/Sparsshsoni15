@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Sparsh%20Soni&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=Building%20Ideas%20Into%20Reality&descAlignY=68"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&text=Sparsh%20Soni&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Tech%20Enthusiast%20|%20Learner%20|%20AI%20Enthusiast&descAlignY=68"/>
 
 </div>
 ---
