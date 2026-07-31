@@ -8,10 +8,10 @@
 ## 💫 About Me
 
 - 🎓 I'm a **B.Tech Student (Electrical & Computer Engineering)**
-- 💻 I'm currently learning **C++, Python & Web Development**
+- 🔶 Also a **Defense Aspirant (IAF)**
+- 💻 I'm currently learning **C++, Python, DSA & Web Development**
 - 🤖 Interested in **AI, Web Development, Hackathons & Open Source**
 - 🌱 Exploring **DSA, Git & GitHub**
-- 🎯 Goal: **Become a Full Stack Developer & AI Engineer**
 - ⚡ Fun Fact: **I love exploring new technologies and AI tools**
 ---
 
