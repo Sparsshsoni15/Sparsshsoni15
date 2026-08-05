@@ -50,11 +50,12 @@
 
 ![](https://github-readme-stats.shion.dev/api?username=Sparsshsoni15&theme=neon&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Sparsshsoni15&theme=neon&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Sparsshsoni15&theme=neonhide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sparsshsoni15&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
+
 
 ---
 
