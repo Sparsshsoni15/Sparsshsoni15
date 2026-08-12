@@ -32,12 +32,12 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-FF8C42?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-00B4D8?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7B801?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-00E5FF?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-14B8A6?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-14B8A6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-9D4EDD?style=for-the-badge&logo=canva&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF3D81?style=for-the-badge&logo=mathworks&logoColor=white)
 
