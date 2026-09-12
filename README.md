@@ -99,7 +99,7 @@ A frontend e-commerce project inspired by Amazon, built to practice web developm
 
 <div align="left">
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](YOUR_AMAZON_REPO_URL)
+[![View Repository](https://img.shields.io/badge/View%20Repository-FF9900?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sparsshsoni15/Amazon)
 
 </div>
 
@@ -115,7 +115,7 @@ A tourist guide website designed to help users explore destinations, budgets and
 
 <div align="left">
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sparsshsoni15/WebD-Workshop-2)
+[![View Repository](https://img.shields.io/badge/View%20Repository-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sparsshsoni15/Tourist-Guide)
 
 </div>
 
