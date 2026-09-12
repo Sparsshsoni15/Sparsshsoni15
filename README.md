@@ -232,6 +232,8 @@ I'm always open to connecting with developers, builders, students and people int
 
 ### ⭐ If you find my work interesting, consider giving my repositories a star!
 
+### Thank You for visiting my Profile !
+
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
