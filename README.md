@@ -53,7 +53,6 @@
 
 ### 🧠 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7B801?style=for-the-badge&logo=javascript&logoColor=black)
 
